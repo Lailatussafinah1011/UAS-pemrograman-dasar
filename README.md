@@ -1,0 +1,2 @@
+# UAS-pemrograman-dasar
+assalamualaikum warahmatullahi wabarokatuh,salam sejahtera bagi kita semua,saya ucapkan terimakasih kepada dosen pengampu pemrograman dasar universitas Hayam Wuruk Perbanas Surabaya,yakni: 1.bpk. Iqbal Ramadhani mukhlis 2.bpk.gaguk Supriyanto 3.bpk.heri Supriyanto saya lailatus safinah dengan Nim 202102011011 dari prodi informatika membuat program ini sebagai penyelesaian tugas ahir saya di semester 1 ini,semoga program ini bermanfaat untuk rekan" semua,terimakasih🙏🏻
